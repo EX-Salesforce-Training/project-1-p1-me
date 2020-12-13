@@ -32,5 +32,22 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
+    <types>
+        <members>*</members>
+        <members>User</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Survey__c</members>
+        <name>Workflow</name>
+    </types>
+    <types>
+        <members>Covid-19/Covid-19_Email_Alert</members>
+        <name>EmailTemplate</name>
+    </types>
+    <types>
+        <members>Survey__c</members>
+        <name>CustomTab</name>
+    </types>
     <version>50.0</version>
 </Package>
